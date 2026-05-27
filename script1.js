@@ -280,4 +280,4 @@
 // - Inline critical CSS
 // - Use `defer` on scripts
 // - Use `preload` for critical files
-// - Minify and reduce file sizes
+// - Minify and reduce file size
